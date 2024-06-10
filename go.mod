@@ -1,3 +1,3 @@
-module github.com/mdubakin/utils
+module github.com/mdubakin/utils/v2
 
 go 1.22.3
